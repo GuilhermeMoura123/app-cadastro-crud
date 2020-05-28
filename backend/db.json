@@ -16,9 +16,14 @@
       "price": 5000.89
     },
     {
-      "name": "geladeira",
-      "price": "1913.99",
-      "id": 4
+      "name": "ddd",
+      "price": "22",
+      "id": 5
+    },
+    {
+      "name": "fff",
+      "price": "32323",
+      "id": 6
     }
   ]
 }
